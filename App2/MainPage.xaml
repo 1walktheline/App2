@@ -11,7 +11,7 @@
     <Grid>
         <Button Name="about"/>
         <Button Name="submit"/>
-        <Button Name="save"/>
+        <Button Name="modify"/>
         <Button Name="help"/>
         
     </Grid>
